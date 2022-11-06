@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-	printf("Ë®ÏÉ»¨Êý:\n");
+	printf("æ°´ä»™èŠ±æ•°:\n");
 	int i, a, b, c;
 	for (i = 100; i <= 999; i++) 
 	{

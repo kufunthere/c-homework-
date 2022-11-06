@@ -7,7 +7,7 @@ int main()
 	{
 		if(n%i==0) break;
 	}
-	if(i<=n-1) printf("%d不是素数\n",n);
-	else printf("%d是素数\n",n);
+	if(i<=n-1) printf("%d涓嶆槸绱犳暟\n",n);
+	else printf("%d鏄礌鏁癨n",n);
 	return 0;
 }
