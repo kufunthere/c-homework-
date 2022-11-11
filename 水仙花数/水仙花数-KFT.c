@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include <windows.h>
 int main()
 {
 	printf("水仙花数:\n");
@@ -9,9 +10,9 @@ int main()
 		int b = (i / 10) % 10;
 		int c = i / 100;
 		if (i == a * a * a + b * b * b + c * c * c) 
-			printf("%d\t", i);
+			printf("%d\t\n", i);
 	}
-
+	system("pause");
 	return 0;
 }
 
