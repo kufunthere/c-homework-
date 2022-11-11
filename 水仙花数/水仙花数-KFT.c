@@ -2,7 +2,7 @@
 #include <windows.h>
 int main()
 {
-	printf("æ°´ä»™èŠ±æ•°:\n");
+	printf("Ë®ÏÉ»¨Êý:\n");
 	int i, a, b, c;
 	for (i = 100; i <= 999; i++) 
 	{
